@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jasonwi.github.io/codex/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/blog/example-post/</loc>
+    <loc>/blog/example-post/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/blog/my-first-post/</loc>
+    <loc>/blog/my-first-post/</loc>
   </url>
   
   <url>
-    <loc>https://jasonwi.github.io/codex/tags/post/</loc>
+    <loc>/tags/post/</loc>
   </url>
   
 </urlset>
